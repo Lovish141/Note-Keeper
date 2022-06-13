@@ -18,11 +18,9 @@ With the help of this web app,The work that can be done can be make more easy.
 
 ## Deployment
 
-To deploy this project run
+The Project is dployed at:
 
-```bash
-  npm run deploy
-```
+[Note-Keeper Web App](https://majestic-squirrel-8ac4d9.netlify.app/)
 
 
 ## Features
